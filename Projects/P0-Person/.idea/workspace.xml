@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bb03247-dfbc-4c31-a12a-b2f5cb41ebbe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g0pg24BSlvPanukmFE6JDH7EYt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Person201Scanner">
+    <configuration name="Person201" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person201" />
+      <module name="project0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person201Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person201Driver" />
+      <module name="project0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person201Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person201Scanner" />
+      <module name="project0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Person201" />
+        <item itemvalue="Application.Person201Scanner" />
+        <item itemvalue="Application.Person201Driver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bb03247-dfbc-4c31-a12a-b2f5cb41ebbe" name="Default Changelist" comment="" />
+      <created>1591546677334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591546677334</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1250" height="155" key="GridCell.Tab.0.bottom" timestamp="1597419077301">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1250" height="155" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1597419077301" />
+    <state width="1250" height="155" key="GridCell.Tab.0.bottom/3840.23.1440.877/0.23.3840.2057@0.23.3840.2057" timestamp="1597262222097" />
+    <state width="1250" height="155" key="GridCell.Tab.0.center" timestamp="1597419077300">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1250" height="155" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1597419077300" />
+    <state width="1250" height="155" key="GridCell.Tab.0.center/3840.23.1440.877/0.23.3840.2057@0.23.3840.2057" timestamp="1597262222095" />
+    <state width="1250" height="155" key="GridCell.Tab.0.left" timestamp="1597419077300">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1250" height="155" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1597419077300" />
+    <state width="1250" height="155" key="GridCell.Tab.0.left/3840.23.1440.877/0.23.3840.2057@0.23.3840.2057" timestamp="1597262222095" />
+    <state width="1250" height="155" key="GridCell.Tab.0.right" timestamp="1597419077300">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1250" height="155" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1597419077300" />
+    <state width="1250" height="155" key="GridCell.Tab.0.right/3840.23.1440.877/0.23.3840.2057@0.23.3840.2057" timestamp="1597262222096" />
+    <state x="155" y="60" key="SettingsEditor" timestamp="1597538411813">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="155" y="60" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1597538411813" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>project0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.google.code.gson:gson:2.8.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

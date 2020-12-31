@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/APT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/P0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/P1/p1-nbody-fall20" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/P2/p2-markov-1-wordgram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/P3/p3-markov2-efficient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/P4/p4-dnalinked-fall20" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/P5/P5-Autocomplete" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/P6/P6-Percolation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/P7/p7-huffman-fall20" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PuzzlerChallenge" vcs="Git" />
+  </component>
+</project>
